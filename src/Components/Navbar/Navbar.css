@@ -53,6 +53,10 @@ nav{
     width: 90px;    
     }
     .nav-middle .search-box input{
-        width: 100px;
+        width: 70px;
     }
+    .nav-middle .search-box img{
+        width: 10px;
+    }
+}
 }
